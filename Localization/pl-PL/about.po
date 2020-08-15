@@ -24,5 +24,9 @@ msgid ""
 " from this data are helping scientists to better understand biology, and"
 " providing new opportunities for developing therapeutics."
 msgstr ""
-
+"to projekt obliczeń rozproszonych do symulacji dynamiki białek, w tym"
+"proces zwijania białek i ich ruchów związane z różnymi chorobami."
+"Zrzesza on ochotników, którzy zgłaszają się na wolonatriuszy,"
+"którzy dobrowolnie przeprowadzają symulacje dynamiki białek na swoich komputerach."
+"Wyniki tych obliczeń pomagają naukowcom lepiej zrozumieć biologię i zapewnia nowe możliwości rozwoju terapii."
 
